@@ -22,6 +22,7 @@ body
 .color-info
 {
     margin-top: 20px;
+    min-width: 100%;
 }
 
 p
